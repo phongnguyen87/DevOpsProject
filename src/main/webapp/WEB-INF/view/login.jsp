@@ -19,7 +19,7 @@
 		<meta property="og:type" content="article" />
 		<meta property="og:url" content="http://github.com/nauvalazhar/Magz" />
 		<meta property="og:image" content="https://raw.githubusercontent.com/nauvalazhar/Magz/master/images/preview.png" />
-		<title>Devops</title>
+		<title>Devops page</title>
 		<!-- Bootstrap -->
 		<link rel="stylesheet" href="${pageContext.request.contextPath}/app-resources/scripts/bootstrap/bootstrap.min.css">
 		<!-- IonIcons -->
